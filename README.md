@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi there 👋, my name is Thomas Himsel
+- 🔭 I’m currently working on the prediction of insolvency
+- 🌱 I’m currently learning deep learning (RNN, CNN, TensorFlow, Keras)
 
+  
 <!--
 **Thomas-thub/Thomas-thub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
