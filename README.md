@@ -1,6 +1,10 @@
 ## Hi there 👋, my name is Thomas Himsel
-- 🔭 I’m currently working on the prediction of insolvency
-- 🌱 I’m currently learning deep learning (RNN, CNN, TensorFlow, Keras)
+
+I'm from Germany and I am interested in all data related stuff,
+working with python, making visualizations and love analyzing kaggle datasets. 
+
+- 🔭 I’m currently working on a dataset to predict insolvency (Data Preprocessing, Machine Learning)
+- 🌱 I’m currently learning deep learning 😄 (RNNs, CNNs, TensorFlow, Keras)
 
   
 <!--
